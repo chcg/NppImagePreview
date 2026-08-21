@@ -1,0 +1,8 @@
+#include <windows.h>
+#include "resource.h"
+
+IDD_IMAGEPANEL DIALOGEX 0, 0, 280, 400
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END

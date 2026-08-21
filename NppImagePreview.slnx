@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NppImagePreview.vcxproj" Id="d9a03ba7-929f-4545-801b-f549cbae0213" />
+</Solution>
